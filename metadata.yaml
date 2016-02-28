@@ -1,0 +1,26 @@
+_repo: The-Life-of-the-Venerable-Mother-Mary-of-the-Incarnation_6486
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marie de l''Incarnation, mère, 1599-1672'
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- !lcsh 'Indians of North America'
+- !lcc 'BX'
+title: The Life of the Venerable Mother Mary of the Incarnation
+url: http://www.gutenberg.org/ebooks/6486
