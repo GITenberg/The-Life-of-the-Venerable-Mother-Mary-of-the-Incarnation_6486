@@ -1,4 +1,8 @@
 _repo: The-Life-of-the-Venerable-Mother-Mary-of-the-Incarnation_6486
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -9,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6486#The-Life-of-the-Venerable-Mother-Mary-of-the-Incarnation
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
